@@ -8,6 +8,7 @@ public class UploadFileApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UploadFileApplication.class, args);
+		System.out.println("Started");
 	}
 
 }
